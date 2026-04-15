@@ -7,11 +7,12 @@ Passionate about growing as a successful woman in tech and empowering other wome
 ---
 
 ## 🚀 Technical Stack
-- JavaScript, HTML, CSS
-- Full-stack development
-- Building and deploying real projects
-- Python, SQL, Power BI, AI
-- Analysing real life scenarios
+- JavaScript, HTML, CSS                         - Microsoft Azure Fundamentals
+- PHP, APIs and Databases                       - Microsoft 365 & Power Platform 
+- Full-stack Development                        - Visio, FLIR and LabelMe
+- Building and Deploying Applications           - Thermal Imaging Analysis
+- Excel, Python, SQL and Power BI               - ETL Processes
+- AI and ML Concepts                            - Data modelling and Data storytelling
 
 ---
 
@@ -26,6 +27,8 @@ A JavaScript app that generates motivational messages with unique colours and no
 ### Data Analysis Intrim Project
 💻 Repo: https://github.com/GraceMacDonald/intrim_projects
 
+This analysis involved querying the AdventureWorks2019 database to retrieve data on annual leave and bonuses.
+
 ---
 
 ## 🧠 What I'm Learning
@@ -37,7 +40,7 @@ A JavaScript app that generates motivational messages with unique colours and no
 - Power BI & Tableau Dashboards for actionable insights
 - Documenting reports
 - AI Automation Processes
-- Full Software Life Cycle
+- Full Software Development Life Cycle
 
 ---
 
@@ -49,8 +52,21 @@ A JavaScript app that generates motivational messages with unique colours and no
 
 ---
 
+## 🚀 Acheivements
+Alumni Ambassador Committee Member of Generation IT UK & Ireland
+• Selected to represent the Generation alumni community across the UK & Ireland, supporting engagement between learners, graduates, and industry partners
+• Provide mentorship and guidance to current learners, helping them navigate training and transition into employment
+• Contribute to outreach initiatives and employer engagement to expand opportunities for graduates
+
+Alumni Advisory Board Member Generation IT Global 
+• Selected to contribute to Generation’s global advisory board, providing strategic insight and feedback on programmes and learner experience
+• Advocate for continuous improvement of training aligned with industry and employer needs
+• Support initiatives aimed at improving graduate employability outcomes and strengthening the global alumni network
+
+---
+
 ## 🌍 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/gracia-macdonald-08b3791aa/## Hi there 👋
+- LinkedIn: https://www.linkedin.com/in/gracia-macdonald-08b3791aa/
 - DataCamp: https://www.datacamp.com/portfolio/gracetamasha-89a41a1a-dfd7-445a-8852-b8c52b303679
 
 <!--
