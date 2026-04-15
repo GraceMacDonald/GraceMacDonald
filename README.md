@@ -7,12 +7,43 @@ Passionate about growing as a successful woman in tech and empowering other wome
 ---
 
 ## 🚀 Technical Stack
-- JavaScript, HTML, CSS                                          - Microsoft Azure Fundamentals
-- PHP, APIs and Databases                                        - Microsoft 365 & Power Platform 
-- Full-stack Development                                         - Visio, FLIR and LabelMe
-- Building and Deploying Applications                            - Thermal Imaging Analysis
-- Excel, Python, SQL and Power BI                                - ETL Processes
-- AI and ML Concepts                                             - Data modelling and Data storytelling
+
+<table>
+  <tr>
+    <td valign="top">
+
+<strong>💻 Development</strong>
+
+- JavaScript, HTML, CSS  
+- PHP, APIs, Databases  
+- Full-stack Development  
+- Application Deployment  
+
+<strong>📊 Data</strong>
+
+- Excel, Python, SQL  
+- Power BI  
+- ETL Processes  
+
+    </td>
+    <td valign="top">
+
+<strong>☁️ Platforms & Tools</strong>
+
+- Microsoft Azure Fundamentals  
+- Microsoft 365 & Power Platform  
+- Visio, FLIR, LabelMe  
+
+<strong>🤖 AI & Analytics</strong>
+
+- AI & ML Concepts  
+- Data Modelling  
+- Data Storytelling  
+- Thermal Imaging Analysis  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
