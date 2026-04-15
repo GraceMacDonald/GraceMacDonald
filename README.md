@@ -22,8 +22,9 @@ Passionate about growing as a successful woman in tech and empowering other wome
 <strong>📊 Data</strong>
 
 - Excel, Python, SQL  
-- Power BI  
-- ETL Processes  
+- Power BI, Tableau and Lookers  
+- ETL Processes
+- Documentations and Reporting  
 
     </td>
     <td valign="top">
