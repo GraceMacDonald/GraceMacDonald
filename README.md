@@ -7,12 +7,12 @@ Passionate about growing as a successful woman in tech and empowering other wome
 ---
 
 ## 🚀 Technical Stack
-- JavaScript, HTML, CSS                         - Microsoft Azure Fundamentals
-- PHP, APIs and Databases                       - Microsoft 365 & Power Platform 
-- Full-stack Development                        - Visio, FLIR and LabelMe
-- Building and Deploying Applications           - Thermal Imaging Analysis
-- Excel, Python, SQL and Power BI               - ETL Processes
-- AI and ML Concepts                            - Data modelling and Data storytelling
+- JavaScript, HTML, CSS                                          - Microsoft Azure Fundamentals
+- PHP, APIs and Databases                                        - Microsoft 365 & Power Platform 
+- Full-stack Development                                         - Visio, FLIR and LabelMe
+- Building and Deploying Applications                            - Thermal Imaging Analysis
+- Excel, Python, SQL and Power BI                                - ETL Processes
+- AI and ML Concepts                                             - Data modelling and Data storytelling
 
 ---
 
@@ -54,14 +54,14 @@ This analysis involved querying the AdventureWorks2019 database to retrieve data
 
 ## 🚀 Acheivements
 Alumni Ambassador Committee Member of Generation IT UK & Ireland
-• Selected to represent the Generation alumni community across the UK & Ireland, supporting engagement between learners, graduates, and industry partners
-• Provide mentorship and guidance to current learners, helping them navigate training and transition into employment
-• Contribute to outreach initiatives and employer engagement to expand opportunities for graduates
+- Selected to represent the Generation alumni community across the UK & Ireland, supporting engagement between learners, graduates, and industry partners
+- Provide mentorship and guidance to current learners, helping them navigate training and transition into employment
+- Contribute to outreach initiatives and employer engagement to expand opportunities for graduates
 
 Alumni Advisory Board Member Generation IT Global 
-• Selected to contribute to Generation’s global advisory board, providing strategic insight and feedback on programmes and learner experience
-• Advocate for continuous improvement of training aligned with industry and employer needs
-• Support initiatives aimed at improving graduate employability outcomes and strengthening the global alumni network
+- Selected to contribute to Generation’s global advisory board, providing strategic insight and feedback on programmes and learner experience
+- Advocate for continuous improvement of training aligned with industry and employer needs
+- Support initiatives aimed at improving graduate employability outcomes and strengthening the global alumni network
 
 ---
 
