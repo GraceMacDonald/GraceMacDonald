@@ -1,6 +1,6 @@
 # Hi, I'm Grace 👋
 
-## 💻 A Combined Data Analyst and Softwarwe Developer
+## 💻 A Combined Data Analyst and Software Developer
 
 Bridging the gap between Data Analytics and Software Development to create intelligent, real-world applications, AI automation processes and actionable insights. 
 Passionate about growing as a successful woman in tech and empowering other women to step into the industry with confidence and clear pathways into a successful tech career!
